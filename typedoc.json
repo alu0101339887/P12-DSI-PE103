@@ -1,6 +1,7 @@
 {
   "entryPoints": [
-    "src"
+    "src/Server.ts",
+    "src/Message.ts"
   ],
   "out": "./docs"
 }
